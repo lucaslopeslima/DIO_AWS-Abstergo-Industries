@@ -13,24 +13,24 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- AWS EC2 (Elastic Compute Cloud)
+- O EC2 permite que os usuários aluguem computadores virtuais nos quais rodam suas próprias aplicações.
+- Esse serviço irá hospedar um Sass (Software as a Service) que será responsável por conectar clientes com o serviço de compras de medicamentos e acompanhamento de pedidos. 
 
 Etapa 2: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- AWS DynamoDB
+- Um banco de dados NoSQL
+- O serviço será responsavel por gerenciar o estoque e as transações em tempo real, assim como status de cada pedido.
 
 Etapa 3: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [Descrição de caso de uso]
+- AWS IAM (Identity and Access Management)
+- Gerenciar e escalar a workload e o acesso da força de trabalho com segurança, apoiando sua agilidade e inovação na AWS.
+- Serviço irá gerenciar os diferentes perfis de acesso ao sistema. Como usuários de clientes, gerentes, responsável por estoque, etc.
 
 
 
 ## Conclusão
-A implementação de ferramentas na empresa *Abstergo Industries tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa *Abstergo Industries tem como esperado a diminuição de custos imediatos*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
