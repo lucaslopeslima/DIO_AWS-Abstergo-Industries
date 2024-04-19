@@ -12,17 +12,17 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
-Etapa 1: 
+Etapa 1:
 - AWS EC2 (Elastic Compute Cloud)
 - O EC2 permite que os usuários aluguem computadores virtuais nos quais rodam suas próprias aplicações.
-- Esse serviço irá hospedar um Sass (Software as a Service) que será responsável por conectar clientes com o serviço de compras de medicamentos e acompanhamento de pedidos. 
+- Esse serviço AWS irá hospedar um Sass (Software as a Service) que será responsável por conectar clientes com o sistema de compras de lotes de medicamentos e acompanhamento de pedidos. 
 
-Etapa 2: 
+Etapa 2:
 - AWS DynamoDB
 - Um banco de dados NoSQL
-- O serviço será responsavel por gerenciar o estoque e as transações em tempo real, assim como status de cada pedido.
+- O serviço será responsavel por gerenciar o estoque de medicamentos e as transações em tempo real, assim como status de cada pedido.
 
-Etapa 3: 
+Etapa 3:
 - AWS IAM (Identity and Access Management)
 - Gerenciar e escalar a workload e o acesso da força de trabalho com segurança, apoiando sua agilidade e inovação na AWS.
 - Serviço irá gerenciar os diferentes perfis de acesso ao sistema. Como usuários de clientes, gerentes, responsável por estoque, etc.
