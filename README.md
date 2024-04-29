@@ -3,7 +3,7 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 18/04/2024
-Empresa: Abstergo Industries 
+Empresa: Abstergo Industries
 Responsável: Lucas Lopes Lima
 
 ## Introdução
